@@ -16,7 +16,7 @@ Break down the provided User Story into logical, incremental tasks suitable for 
 - Focus on component behavior, rendering, and user experience validation.
 
 ### For Business Logic Tasks:
-- Suggest generating implementation prompts using loose Test-Driven Development (TDD) methodology, defining basic tests before writing actual implementation code.
+- Suggest generating implementation prompts using a lightweight Test-Driven Development (TDD) approach, defining basic tests before writing actual implementation code.
 - Emphasize that business logic functionality should be independently testable via unit tests.
 - Ensure core functionality is verifiable without external dependencies.
 
@@ -27,8 +27,8 @@ Break down the provided User Story into logical, incremental tasks suitable for 
 
 ### For Integration Tasks:
 - Recommend generating tasks that define integration points and interfaces clearly.
-- Suggest testing integration points via appropriate tools (e.g., API testing tools, integration test suites).
-- Ensure integration points are explicitly testable via external validation methods.
+- Suggest testing integration points via appropriate tools (e.g., Postman, Jest integration tests, contract testing tools, or API test suites).
+- Ensure integration points are explicitly testable via automated integration tests or API contract validation.
 
 ## 3. Rollback Capability
 
