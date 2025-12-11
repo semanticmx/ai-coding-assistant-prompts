@@ -28,7 +28,7 @@ Break down the provided User Story into logical, incremental tasks suitable for 
 ### For Integration Tasks:
 - Recommend generating tasks that define integration points and interfaces clearly.
 - Suggest testing integration points via appropriate tools (e.g., Postman, Jest integration tests, contract testing tools, or API test suites).
-- Ensure integration points are explicitly testable via automated integration tests or API contract validation.
+- Ensure integration points are verifiable through automated integration tests or API contract validation.
 
 ## 3. Rollback Capability
 
